@@ -14,8 +14,8 @@ class User
             ],
             [
                 'id' => 3,
-                'name' => 'Camila Marinez',
-                'email' => 'camila@pmm.com',
+                'name' => 'Banano',
+                'email' => 'Banano@pmm.com',
             ],
         ]);
     }
